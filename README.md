@@ -25,7 +25,7 @@
 
 ## 🖼️ Demo
 
-![Web Interface Screenshot](screenshot.png)
+![Web Interface Screenshot](Screenshot.png)
 
 ---
 
